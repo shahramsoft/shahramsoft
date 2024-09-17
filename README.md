@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**shahramsoft/shahramsoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, Im Shahram 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 About Me
+Since the age of 18, I have been passionately engaged in software development, consistently seeking out the latest technologies to deliver superior solutions. My expertise in ASP.NET MVC with C# has proven to be particularly effective, and the advent of .NET Core technology has significantly enhanced my approach. 
+
+
+
+👩‍💻 I'm currently working on a Statup called Aspedan.dev
+
+📫 How to reach me is simply email me at shahram[dot]soft@gmail[dot]com
+⚡️ Fun fact I Love Cars
+
+
+## 🛠 Skills
+C#, SQL, Javascript, HTML, CSS , Angular,  Rust, Some Deployment and Clouds
+
